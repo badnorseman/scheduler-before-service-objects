@@ -6,7 +6,7 @@ Please take a look at Scheduler after Service Objects to see the differences and
 
 Should you end up in similiar situation, I can recommend the following approach.
 
-Step 1. Make sure that you full test coverage. Don't begin any refactory before you are absolutely sure that you know what you are changing and can verify that any change didn't break the existing code.
+Step 1. Make sure that you have full test coverage. Don't begin any refactory before you are absolutely sure that you know what you are changing and is able verify that any change didn't break existing code.
 
 Step 2. Write a brief description to each method
 
