@@ -1,0 +1,9 @@
+#= require fitbird/fitbird
+#= require fitbird/shared
+#= require fitbird/authentications
+#= require fitbird/dashboards
+#= require fitbird/menus
+#= require fitbird/profiles
+#= require fitbird/registrations
+#= require fitbird/users
+#= require fitbird/welcome

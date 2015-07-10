@@ -1,0 +1,22 @@
+{
+  "name": "fitbird",
+  "dependencies": {
+    "angular": "> 1.3 <1.4",
+    "angular-messages": "<1.4",
+    "angular-resource": "<1.4",
+    "angular-ui-router": "0.2.13",
+    "angular-ui-utils": "0.1.1",
+    "ng-token-auth": "0.0.24",
+    "angular-bootstrap": "~0.12.0",
+    "angular-cookie": "~4.0.6"
+  },
+  "ignore": [
+    "**/*.txt",
+    "node_modules",
+    "vendor/assets/bower_components",
+    "spec"
+  ],
+  "resolutions": {
+    "angular": "<1.4"
+  }
+}
